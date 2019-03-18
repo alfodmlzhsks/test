@@ -4,6 +4,7 @@ print("zzack")
 print("zzack")
 print("zzack")
 print("zzack")
+print("12305105")
 print("gugu")
 print("cointest1 added");
 #github 에서 수정하였습니다~~~~~~~
